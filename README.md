@@ -5,4 +5,4 @@
 1 先知 https://xz.aliyun.com/
 
 工具
-modbus https://xz.aliyun.com/
+modbus https://github.com/int0x33/Modsploit?tab=readme-ov-file
