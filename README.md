@@ -11,7 +11,9 @@ Web
 
 1 JWT: https://jwt.io/
 
-2 analysis of the configuration of any SSL web server  https://www.ssllabs.com/
+2 analysis of the configuration of any SSL web server  
+  https://www.ssllabs.com/
+  nmap --script ssl-enum-ciphers -p 443 target IP
 
 协议
 
