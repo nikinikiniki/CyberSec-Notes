@@ -7,7 +7,8 @@
 
 测试工具
 Web
-JWT: https://jwt.io/
+1 JWT: https://jwt.io/
+2 analysis of the configuration of any SSL web server  https://www.ssllabs.com/
 
 协议
 
