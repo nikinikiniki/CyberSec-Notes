@@ -15,6 +15,11 @@ Web
   https://www.ssllabs.com/
   nmap --script ssl-enum-ciphers -p 443 target IP
 
+
+android 
+
+https://github.com/Hrishikesh7665/Android-Pentesting-Checklist?tab=readme-ov-file#apkleaks
+
 协议
 
 modbus https://github.com/int0x33/Modsploit?tab=readme-ov-file
