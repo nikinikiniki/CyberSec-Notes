@@ -15,6 +15,9 @@ Web
   https://www.ssllabs.com/
   nmap --script ssl-enum-ciphers -p 443 target IP
 
+3. Feroxbuster
+   https://www.hackingarticles.in/a-detailed-guide-on-feroxbuster/
+
 
 android 
 
